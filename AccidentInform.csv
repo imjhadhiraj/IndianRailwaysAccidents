@@ -1,0 +1,21 @@
+AccidentId,AccidentDate,TrainNo,Location,Casualities
+1,12/1/2000,13005,Ambala,45
+2,6/22/2001,12602,Kadalundi,52
+3,2/27/2002,19167,Godhra,58
+4,5/13/2002,12392,Jaunpur,12
+5,4/6/2002,15037,Kansganj,30
+6,9/9/2002,12302,Rafiganj,140
+7,5/15/2003,12904,Ludhiana,36
+8,6/22/2003,9005,Mumbai,52
+9,7/2/2003,17201,Warangal,21
+10,12/14/2004,13151,Hoshiarpur,37
+11,7/28/2005,12392,Jaunpur,12
+12,12/1/2006,13071,Ulta Pul,35
+13,2/18/2007,14001,Diwana,68
+14,8/1/2008,12738,Kesamudram,40
+15,5/28/2010,12102,Khemashuli,140
+16,7/7/2011,22532,Kanshiram,38
+17,5/22/2012,16591,Penukonda,25
+18,12/18/2013,16593,Kotchacheravu,26
+19,6/2/2023,12841,Balasore,296
+20,6/17/2024,13174,Rangapani,10
