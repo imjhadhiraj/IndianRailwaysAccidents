@@ -1,4 +1,4 @@
-# IndianRailwaysAccidents
+# Indian Railways Accidents
 
 ### Project Description: Analyzing Railway Accidents in India
 
